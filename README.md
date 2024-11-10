@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Varsha Sharon
- 🎓 Junior at Saveetha Engineering Collge<br/>
- 👨‍💻 Front-End Developer | UI/UX Designer | Web Enthusiaste<br/>
+ 🎓 Junior at Saveetha Engineering College<br/>
+ 👨‍💻 Front-End Developer | UI/UX Designer<br/>
 
 ##  What I’m passionate about:
 
