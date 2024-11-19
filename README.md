@@ -7,5 +7,3 @@
 ▪️  Creating intuitive web and mobile interfaces <br/>
 ▪️  Prototyping, wireframing, and developing interactive designs<br/>
 
-## Contact me : 
-https://varshasharon.github.io/varsha-sharon-portfolio/
