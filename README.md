@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Varsha Sharon</h1>
 <h3 align="center">Front-End Developer | UI/UX Designer | Cybersecurity Enthusiast</h3>
 
-- 🌱 I’m currently learning **GSAP, Three.js and Cryptography**
+- 🌱 Learning GSAP, Three.js, and Cryptographic Encryption Techniques to level up my dev game.
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-cyan-delta.vercel.app/](https://personal-portfolio-cyan-delta.vercel.app/)
+- 👨‍💻 Explore my work at personal-portfolio-cyan-delta.vercel.app
 
-- 💬 Ask me about **UI designing using Figma**
+- 📫 Reach out at evarshasharon@gmail.com — always up for a good collab!
 
-- 📫 How to reach me **evarshasharon@gmail,com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GBcgOZtV0RpmHpbDxGzvRbNQ1xeJuTDNzeFiFXU88rw/edit?usp=sharing](https://docs.google.com/document/d/1GBcgOZtV0RpmHpbDxGzvRbNQ1xeJuTDNzeFiFXU88rw/edit?usp=sharing)
+- 📄 Take a look at my journey so far: My Resume
 
 - ⚡ Fun fact **I am a freelance artist!**
 
