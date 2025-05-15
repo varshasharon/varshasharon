@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varsha Sharon</h1>
+<h1 align="center">Hi there, I'm Varsha Sharon</h1>
 <h3 align="center">Front-End Developer | UI/UX Designer | Cybersecurity Enthusiast</h3>
 
 - 🌱 Learning GSAP, Three.js, and Cryptographic Encryption Techniques to level up my dev game.
