@@ -3,7 +3,7 @@
 
 - 🌱 Learning GSAP, Three.js, and Cryptographic Encryption Techniques to level up my dev game.
 
-- 👨‍💻 Explore my work at personal-portfolio-cyan-delta.vercel.app
+- 👨‍💻 Explore my work at [Portfolio website](https://personal-portfolio-cyan-delta.vercel.app/)
 
 - 📫 Reach out at evarshasharon@gmail.com — always up for a good collab!
 
