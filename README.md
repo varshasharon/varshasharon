@@ -8,7 +8,7 @@
 - 📫 Reach out at evarshasharon@gmail.com — always up for a good collab!
 
 - 📄 Take a look at my journey so far: [Resume](https://docs.google.com/document/d/1GBcgOZtV0RpmHpbDxGzvRbNQ1xeJuTDNzeFiFXU88rw/edit?usp=sharing)
-
+    
 - ⚡ Fun fact **I am a freelance artist!**
 
 <h3 align="left">Connect with me:</h3>
